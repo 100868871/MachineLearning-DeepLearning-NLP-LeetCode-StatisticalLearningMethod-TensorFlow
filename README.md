@@ -199,10 +199,11 @@ https://pan.baidu.com/s/18xJgBeCXWtDNWpC2Ec2jWg
 
 电脑版破解也有，但不太稳定…… https://pan.baidu.com/s/1qrfzV5sUNGy3-XhnWulr6Q  
 
-深度学习我资料就更多了 麦子的深度学习基础&进阶 https://pan.baidu.com/s/1kINYYiRRsJpY2Fa5jKoejA  
+深度学习 麦子的深度学习基础&进阶   
 
-还有唐宇迪在51CTO的深度学习全套视频  
+https://pan.baidu.com/s/1kINYYiRRsJpY2Fa5jKoejA    
 
-https://pan.baidu.com/s/1o4k2JxWVU1YVUWdx_AW3EQ  
+还有唐宇迪在51CTO的深度学习全套视频   
 
-这是唐宇迪的ML，我觉得是所有课中讲的最好的  
+https://pan.baidu.com/s/1o4k2JxWVU1YVUWdx_AW3EQ   
+
