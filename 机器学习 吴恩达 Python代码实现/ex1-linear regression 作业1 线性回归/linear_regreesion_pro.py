@@ -15,21 +15,15 @@ raw_data = pd.read_csv('ex1data2.txt', names=['square', 'bedrooms', 'price'])
 raw_data.head()
 
 def normalize_feature(df):
-#     """Applies function along input axis(default 0) of DataFrame."""
     return df.apply(lambda column: (column - column.mean()) / column.std())
 
 def get_X(df):#读取特征
-#     """
-#     use concat to add intersect feature to avoid side effect
-#     not efficient for big dataset though
-#     """
     ones = pd.DataFrame({'ones': np.ones(len(df))})#ones是m行1列的dataframe
     data = pd.concat([ones, df], axis=1)  # 合并数据，根据列合并
     return data.iloc[:, :-1].as_matrix()  # 这个操作返回 ndarray,不是矩阵
 
 
 def get_y(df):#读取标签
-#     '''assume the last column is the target'''
     return np.array(df.iloc[:, -1])#df.iloc[:, -1]是指df的最后一列
 
 def lr_cost(theta, X, y):
@@ -41,13 +35,8 @@ def lr_cost(theta, X, y):
     m = X.shape[0]#m为样本数
 
     inner = X @ theta - y  # R(m*1)，X @ theta等价于X.dot(theta)
-
-    # 1*m @ m*1 = 1*1 in matrix multiplication
-    # but you know numpy didn't do transpose in 1d array, so here is just a
-    # vector inner product to itselves
     square_sum = inner.T @ inner
     cost = square_sum / (2 * m)
-
     return cost
 
 def gradient(theta, X, y):
@@ -60,7 +49,6 @@ def gradient(theta, X, y):
 def batch_gradient_decent(theta, X, y, epoch, alpha=0.01):
 #   拟合线性回归，返回参数和代价
 #     epoch: 批处理的轮数
-#     """
     cost_data = [lr_cost(theta, X, y)]
     _theta = theta.copy()  # 拷贝一份，不和原来的theta混淆
 
@@ -72,11 +60,9 @@ def batch_gradient_decent(theta, X, y, epoch, alpha=0.01):
 #批量梯度下降函数
 
 def linear_regression(X_data, y_data, alpha, epoch, optimizer=tf.train.GradientDescentOptimizer):# 这个函数是旧金山的一个大神Lucas Shen写的
-      # placeholder for graph input
     X = tf.placeholder(tf.float32, shape=X_data.shape)
     y = tf.placeholder(tf.float32, shape=y_data.shape)
-
-    # construct the graph
+    
     with tf.variable_scope('linear-regression'):
         W = tf.get_variable("weights",
                             (X_data.shape[1], 1),
@@ -89,20 +75,16 @@ def linear_regression(X_data, y_data, alpha, epoch, optimizer=tf.train.GradientD
     opt = optimizer(learning_rate=alpha)
     opt_operation = opt.minimize(loss)
 
-    # run the session
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
         loss_data = []
 
         for i in range(epoch):
             _, loss_val, W_val = sess.run([opt_operation, loss, W], feed_dict={X: X_data, y: y_data})
-            loss_data.append(loss_val[0, 0])  # because every loss_val is 1*1 ndarray
+            loss_data.append(loss_val[0, 0])  
 
-            if len(loss_data) > 1 and np.abs(loss_data[-1] - loss_data[-2]) < 10 ** -9:  # early break when it's converged
-                # print('Converged at epoch {}'.format(i))
+            if len(loss_data) > 1 and np.abs(loss_data[-1] - loss_data[-2]) < 10 ** -9:  
                 break
-
-    # clear the graph
     tf.reset_default_graph()
     return {'loss': loss_data, 'parameters': W_val}  # just want to return in row vector format
 
@@ -174,10 +156,6 @@ fig, ax = plt.subplots(figsize=(16, 9))
 
 for res in results: 
     loss_data = res['loss']
-    
-#     print('for optimizer {}'.format(res['name']))
-#     print('final parameters\n', res['parameters'])
-#     print('final loss={}\n'.format(loss_data[-1]))
     ax.plot(np.arange(len(loss_data)), loss_data, label=res['name'])
 
 ax.set_xlabel('epoch', fontsize=18)
