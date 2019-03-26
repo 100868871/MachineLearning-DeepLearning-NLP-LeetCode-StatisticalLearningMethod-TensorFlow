@@ -16,9 +16,9 @@ Min's blog 欢迎访问我的博客主页！
 # 1.机器学习（更新中）  
 吴恩达老师的机器学习课程个人笔记 Python代码实现  
 https://study.163.com/course/introduction/1004570029.htm       
-- ex1-linear regression 作业1 线性回归  
+- ex1-linear regression 作业1 [线性回归](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/机器学习%20吴恩达%20Python代码实现/ex1-linear%20regression%20作业1%20线性回归)    
 有一个变量和多个变量。  
-- ex2-logistic regression 作业2 logistic回归  
+- ex2-logistic regression 作业2 [logistic回归](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/机器学习%20吴恩达%20Python代码实现/ex2-logistic%20regression%20作业2%20logistic回归)    
 包括正则化。  
 - ex3-neural network 作业3 神经网络  
 使用两种不同的方法识别手写数字：one-vs-all逻辑回归，以及前向传播预训练的神经网络。  
