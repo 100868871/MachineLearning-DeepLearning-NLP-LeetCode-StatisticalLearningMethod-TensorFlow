@@ -8,6 +8,7 @@
 5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现，  
 6.TensorFlow人工智能实践代码笔记  北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  
 7.林轩田的机器学习基石和机器学习技法  Python代码实现   
+8.机器学习实战（附源代码）Python代码实现     
 附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。        
 这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！  
 Min's blog 欢迎访问我的博客主页！   
@@ -100,6 +101,9 @@ https://github.com/soulmachine/leetcode
 
 # 7.林轩田的机器学习基石和机器学习技法   
 
+
+# 8.机器学习实战（附源代码）  
+机器学习实战（Python3）：kNN（k-邻域算法）、Decision Tree（决策树）、Navie Bayes（朴素贝叶斯）、Logistic（Logistic回归）、SVM（支持向量机）、AdaBoost、Regression线性回归、Regression Tree树回归    
 
 # 普通程序员如何正确学习人工智能方向的知识？
 ## 第一步：复习线性代数。
