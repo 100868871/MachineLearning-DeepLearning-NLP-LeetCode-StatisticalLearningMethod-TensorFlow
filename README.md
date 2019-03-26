@@ -6,7 +6,7 @@
 3.李航《统计学习方法》 Python代码实现，  
 4.牛津大学xDeepMind 自然语言处理 Python代码实现，    
 5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现，  
-6.TensorFlow人工智能实践代码笔记  北京大学曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  
+6.TensorFlow人工智能实践代码笔记  北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  
 7.林轩田的机器学习基石和机器学习技法  Python代码实现   
 附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。        
 这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！  
@@ -88,7 +88,7 @@ https://github.com/soulmachine/leetcode
 这位作者写的十分好，我也会部分参考TA的思路和答案  
 
 # 6.TensorFlow人工智能实践代码笔记（更新中）  
-北京大学曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现  
+北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现  
 - 第一讲概述
 - 第二讲python的常用语法
 - 第三讲神经网络的搭建八股
