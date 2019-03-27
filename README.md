@@ -104,6 +104,7 @@ https://github.com/soulmachine/leetcode
 
 # 8.机器学习实战（附源代码）  
 机器学习实战（Python3）：kNN（k-邻域算法）、Decision Tree（决策树）、Navie Bayes（朴素贝叶斯）、Logistic（Logistic回归）、SVM（支持向量机）、AdaBoost、Regression线性回归、Regression Tree树回归    
+ http://vdisk.weibo.com/s/C3VtoShZRyZIt  
 - 第一章：讲述机器学习   
 - 第二章：kNN（k-邻域算法）   
 - 第三章：Decision Tree（决策树）  
