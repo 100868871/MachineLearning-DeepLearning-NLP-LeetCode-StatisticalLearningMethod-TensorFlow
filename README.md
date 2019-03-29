@@ -214,7 +214,8 @@ https://pan.baidu.com/s/1MdT9ryycnaA2RpluSN2gwA
  
 https://pan.baidu.com/s/18xJgBeCXWtDNWpC2Ec2jWg  
 
-电脑版破解也有，但不太稳定…… https://pan.baidu.com/s/1qrfzV5sUNGy3-XhnWulr6Q  
+电脑版破解也有，但不太稳定……   
+https://pan.baidu.com/s/1qrfzV5sUNGy3-XhnWulr6Q    
 
 深度学习 麦子的深度学习基础&进阶   
 
