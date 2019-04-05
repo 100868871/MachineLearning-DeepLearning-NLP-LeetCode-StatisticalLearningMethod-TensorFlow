@@ -1,23 +1,26 @@
-# MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod
+# MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod  
+
 最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。  
 主要包括：  
 1.吴恩达Andrew Ng老师的机器学习课程个人笔记 Python实现，  
 2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python实现，  
 3.李航《统计学习方法》 Python代码实现，  
-4.牛津大学xDeepMind 自然语言处理 Python代码实现，    
+4.牛津大学xDeepMind 自然语言处理 Python代码实现，  
 5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现，  
 6.TensorFlow人工智能实践代码笔记  北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  
-7.林轩田的机器学习基石和机器学习技法  Python代码实现   
-8.机器学习实战（附源代码）Python代码实现     
-- 本人也尚在学习中，水平有限。如果确认内容中存在谬误，欢迎提出 issue 或者 pull request。  
-- 如果您觉得有帮助，不妨点一个 star 以资鼓励。   
+7.林轩田的机器学习基石和机器学习技法  Python代码实现  
+8.机器学习实战（附源代码）Python代码实现  
 
-附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。        
+- 本人也尚在学习中，水平有限。如果确认内容中存在谬误，欢迎提出 issue 或者 pull request。  
+- 如果您觉得有帮助，不妨点一个 star 以资鼓励。  
+
+附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。  
 这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！  
-Min's blog 欢迎访问我的博客主页！   
-(Welcome to my blog website !)https://liweimin1996.github.io/   
+Min's blog 欢迎访问我的博客主页！  
+(Welcome to my blog website !)[Min blog](https://liweimin1996.github.io/)  
 
 # 1.机器学习（更新中）  
+
 吴恩达老师的机器学习课程个人笔记 Python代码实现  
 https://study.163.com/course/introduction/1004570029.htm       
 - ex1-linear regression 作业1 [线性回归](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/机器学习%20吴恩达%20Python代码实现/ex1-linear%20regression%20作业1%20线性回归)    
