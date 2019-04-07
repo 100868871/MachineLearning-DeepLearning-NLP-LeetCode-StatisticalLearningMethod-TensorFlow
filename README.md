@@ -2,14 +2,14 @@
 
 最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。  
 主要包括：  
-1.吴恩达Andrew Ng老师的机器学习课程个人笔记 Python实现，  
-2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python实现，  
-3.李航《统计学习方法》 Python代码实现，  
-4.牛津大学xDeepMind 自然语言处理 Python代码实现，  
-5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现，  
-6.TensorFlow人工智能实践代码笔记  北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现，  
-7.林轩田的机器学习基石和机器学习技法  Python代码实现  
-8.机器学习实战（附源代码）Python代码实现  
+1.吴恩达Andrew Ng老师的机器学习课程个人笔记 [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%B4%E6%81%A9%E8%BE%BE%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)    
+2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E5%90%B4%E6%81%A9%E8%BE%BE%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)    
+3.李航《统计学习方法》 [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%20%E6%9D%8E%E8%88%AA%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)    
+4.牛津大学xDeepMind 自然语言处理 [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%20DeepMind%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)  
+5.LeetCode刷题，题析，分析心得笔记 [Java和Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/LeetCode%E5%88%B7%E9%A2%98%EF%BC%8C%E9%A2%98%E6%9E%90%EF%BC%8C%E5%88%86%E6%9E%90%E5%BF%83%E5%BE%97%E7%AC%94%E8%AE%B0)  
+6.TensorFlow人工智能实践代码笔记  北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/TensorFlow%E5%AE%9E%E8%B7%B5%20Google%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)  
+7.林轩田的机器学习基石和机器学习技法  [Python实现]  
+8.机器学习实战（附源代码）[Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/logistic%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92)  
 
 - 本人也尚在学习中，水平有限。如果确认内容中存在谬误，欢迎提出 issue 或者 pull request。  
 - 如果您觉得有帮助，不妨点一个 star 以资鼓励。  
