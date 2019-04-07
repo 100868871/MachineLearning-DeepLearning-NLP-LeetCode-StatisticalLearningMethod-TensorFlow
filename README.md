@@ -17,7 +17,9 @@
 附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。  
 这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！  
 Min's blog 欢迎访问我的博客主页！  
-(Welcome to my blog website !)[Min blog](https://liweimin1996.github.io/)  
+(Welcome to my blog website !)[Min blog](https://liweimin1996.github.io/)    
+
+![机器学习](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/blob/master/knowledge.jpg ''机器学习'')  
 
 # 1.机器学习（更新中）  
 
