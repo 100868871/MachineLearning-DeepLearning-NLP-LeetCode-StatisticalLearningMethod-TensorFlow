@@ -117,7 +117,7 @@ https://github.com/soulmachine/leetcode
 - 第二章：kNN（k-邻域算法）   
 - 第三章：Decision Tree（决策树）  
 - 第四章：Navie Bayes（朴素贝叶斯）  
-- 第五章：Logistic（Logistic回归）  
+- 第五章：Logistic（Logistic回归） [鸢尾花分类](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/logistic%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/%E9%B8%A2%E5%B0%BE%E8%8A%B1%E5%88%86%E7%B1%BB) 2019年4月7日14:52:40    
 - 第六章：SVM（支持向量机）  
 - 第七章：AdaBoost  
 - 第八章：Regression   线性回归  
