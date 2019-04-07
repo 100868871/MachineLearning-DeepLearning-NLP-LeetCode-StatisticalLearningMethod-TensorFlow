@@ -19,7 +19,7 @@
 Min's blog 欢迎访问我的博客主页！  
 (Welcome to my blog website !)[Min blog](https://liweimin1996.github.io/)    
 
-![机器学习](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/blob/master/knowledge.jpg ''机器学习'')  
+![机器学习](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/blob/master/knowledge.jpg)  
 
 # 1.机器学习（更新中）  
 
