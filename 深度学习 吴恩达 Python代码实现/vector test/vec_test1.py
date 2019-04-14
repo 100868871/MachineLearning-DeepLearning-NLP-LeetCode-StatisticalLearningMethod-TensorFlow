@@ -27,14 +27,25 @@ c=np.dot(a,b)
 
 end_time=time.perf_counter()
 
-time=end_time-start_time
+time1=end_time-start_time
 
-print(time)
-
-
-
+print(time1)
+print(c)
 
 
+start_time2=time.perf_counter()
+
+
+c=0
+for i in range(1000000):
+    c+=a[i]*b[i]
+
+end_time2=time.perf_counter()
+
+time2=end_time2-start_time2
+
+print(time2)
+print(c)
 
 
 
