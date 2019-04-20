@@ -211,18 +211,31 @@ frame = legend.get_frame()
 frame.set_facecolor('0.90')
 plt.show()     
     
-
+#随便百度一张猫或者狗的图片，放在image文件夹里，懒的写for循环了
 my_image = "cat2.jpg"
 fname = "images/" + my_image
-image = np.array(ndimage.imread(fname, flatten=False))
-my_image = scipy.misc.imresize(image, size=(num_px,num_px)).reshape((1, num_px*num_px*3)).T
+image1 = np.array(ndimage.imread(fname, flatten=False))
+my_image = scipy.misc.imresize(image1, size=(num_px,num_px)).reshape((1, num_px*num_px*3)).T
 my_predicted_image = predict(d["w"], d["b"], my_image)
-
-plt.imshow(image)
+plt.subplot(1,2,1)
+plt.imshow(image1)
+#plt.show()
 print("y = " + str(np.squeeze(my_predicted_image)) + ", your algorithm predicts a \"" + classes[int(np.squeeze(my_predicted_image)),].decode("utf-8") +  "\" picture.")
  
-     
-     
+
+my_image = "cat3.jpg"
+fname = "images/" + my_image
+image2 = np.array(ndimage.imread(fname, flatten=False))
+my_image = scipy.misc.imresize(image2, size=(num_px,num_px)).reshape((1, num_px*num_px*3)).T
+my_predicted_image = predict(d["w"], d["b"], my_image)
+plt.subplot(1,2,2)
+plt.imshow(image2)
+#plt.show()
+print("y = " + str(np.squeeze(my_predicted_image)) + ", your algorithm predicts a \"" + classes[int(np.squeeze(my_predicted_image)),].decode("utf-8") +  "\" picture.")
+ 
+#准确率结果也就70%左右（不到）
+
+
 
 
 
