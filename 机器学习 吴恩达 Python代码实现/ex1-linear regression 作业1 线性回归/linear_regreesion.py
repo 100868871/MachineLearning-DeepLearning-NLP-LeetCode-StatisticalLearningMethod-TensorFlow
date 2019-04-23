@@ -4,7 +4,7 @@ Created on Sat Mar  9 20:53:12 2019
 
 @author: liweimin
 """
-# ex1_1linear regreesion
+# ex1_1linear regreesion当有推导好的公式后，有很多东西直接照着公式写代码就可以了，并不是很难
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
