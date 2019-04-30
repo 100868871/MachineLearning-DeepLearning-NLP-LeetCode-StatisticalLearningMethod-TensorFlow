@@ -1,6 +1,8 @@
 # MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod  
 
-最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。  
+最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，理论学习主要根据[重磅,完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/3_KT7WZvvTGts3wprlpFPA)  
+来进行学习，上面有很详细的入门，实战及进阶知识，相信你会喜欢的，欢迎点赞。  
+在学习理论的同时，决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。  
 主要包括：  
 1.吴恩达Andrew Ng老师的机器学习课程个人笔记 [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%B4%E6%81%A9%E8%BE%BE%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)    
 2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E5%90%B4%E6%81%A9%E8%BE%BE%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)    
