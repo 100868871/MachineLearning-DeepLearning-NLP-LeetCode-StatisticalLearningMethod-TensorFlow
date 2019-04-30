@@ -1,6 +1,7 @@
 # MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod  
 
-最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，理论学习主要根据[重磅,完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/3_KT7WZvvTGts3wprlpFPA)  
+最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，理论学习主要根据  
+[重磅,完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/3_KT7WZvvTGts3wprlpFPA)  
 来进行学习，上面有很详细的入门，实战及进阶知识，相信你会喜欢的，欢迎点赞。  
 在学习理论的同时，决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。  
 主要包括：  
