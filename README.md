@@ -12,7 +12,7 @@
 5.LeetCode刷题，题析，分析心得笔记 [Java和Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/LeetCode%E5%88%B7%E9%A2%98%EF%BC%8C%E9%A2%98%E6%9E%90%EF%BC%8C%E5%88%86%E6%9E%90%E5%BF%83%E5%BE%97%E7%AC%94%E8%AE%B0)  
 6.TensorFlow人工智能实践代码笔记  北京大学PKU曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） [Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/TensorFlow%E5%AE%9E%E8%B7%B5%20Google%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)  
 7.林轩田的机器学习基石和机器学习技法  [Python实现]  
-8.机器学习实战（附源代码）[Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/logistic%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92)  
+8.机器学习实战（附源代码）[Python实现](https://github.com/liweimin1996/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%20Python%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0)  
 
 - 本人也尚在学习中，水平有限。如果确认内容中存在谬误，欢迎提出 issue 或者 pull request。  
 - 如果您觉得有帮助，不妨点一个 star 以资鼓励。  
